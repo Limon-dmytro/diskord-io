@@ -1,5 +1,5 @@
 # Інструкція по користуванню Discord
-![Alt text](images11.png)
+c:\Users\Zver\Desktop\1\images11.png
 
 ## Що таке Discord?
 
