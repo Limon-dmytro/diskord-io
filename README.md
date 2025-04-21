@@ -1,5 +1,5 @@
 # Інструкція по користуванню Discord
-c:\Users\Zver\Desktop\1\images11.png
+![Описание](https://github.com/Limon-dmytro/diskord-io/blob/main/images11.png?raw=true)
 
 ## Що таке Discord?
 
